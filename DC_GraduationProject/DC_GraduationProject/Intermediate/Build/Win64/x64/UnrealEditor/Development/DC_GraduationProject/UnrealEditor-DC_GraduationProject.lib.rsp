@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DC_GraduationProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\2024_-Graduation-project\DC_GraduationProject\DC_GraduationProject\Intermediate\Build\Win64\x64\DC_GraduationProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\2024_-Graduation-project\DC_GraduationProject\DC_GraduationProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\DC_GraduationProject\DC_GraduationProject.cpp.obj"
+"D:\2024_-Graduation-project\DC_GraduationProject\DC_GraduationProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\DC_GraduationProject\Default.rc2.res"
+/OUT:"D:\2024_-Graduation-project\DC_GraduationProject\DC_GraduationProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\DC_GraduationProject\UnrealEditor-DC_GraduationProject.lib"
